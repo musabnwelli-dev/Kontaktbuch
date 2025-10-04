@@ -14,6 +14,9 @@ Ein kleines Java-Programm zur Verwaltung einer Kontaktliste.
 ### Eingabe Vorname
 ![Vorname](https://github.com/musabnwelli-dev/Kontaktbuch/blob/b33ad92fabdb191b13856bf4dfc541f003f5f693/Bildschirmfoto%202025-10-04%20um%2013.01.27.png)
 
+### Eingabe Telefonnummer
+![Telefonnummer](https://github.com/musabnwelli-dev/Kontaktbuch/blob/bd43bb826ef215dda433778cba048f407a23250c/Bildschirmfoto%202025-10-04%20um%2013.01.53.png)
+
 ## Build & Run
 ```bash
 javac -d out src/de/musab/kontaktliste/*.java
