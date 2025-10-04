@@ -9,7 +9,7 @@ Ein kleines Java-Programm zur Verwaltung einer Kontaktliste.
 ## Screenshots
 
 ### Hauptmenü
-![Hauptmenü](https://raw.githubusercontent.com/musabnwelli-dev/Kontaktbuch/refs/heads/master/Bildschirmfoto%202025-10-04%20um%2013.00.57.png?token=GHSAT0AAAAAADLHKAUT26EPXEPE3BX6I54C2HBANDQ)
+![Hauptmenü](https://github.com/musabnwelli-dev/Kontaktbuch/blob/57187d3d4f35b332e7efd6e44227a0a22a18a697/Bildschirmfoto%202025-10-04%20um%2013.00.57.png)
 
 ## Build & Run
 ```bash
